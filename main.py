@@ -6,7 +6,7 @@ s = input('Введите что-то: ')
 sep1 = input()
 sep2 = input()
 sep3 = input()
-print(sep1, sep2, sep3, sep=s)
+print(sep1, sep2, sep3, sep='-')
 
 # 3
 a = int(input("Введите число"))
